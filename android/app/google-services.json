@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524764023469",
+    "project_id": "flutter-advaned-topics",
+    "storage_bucket": "flutter-advaned-topics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524764023469:android:0f36471f1bea86ee59d424",
+        "android_client_info": {
+          "package_name": "com.example.flutter_advanced_topics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJODspEw4xL7u-OxMJSujduQ6zNXiRW2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
