@@ -45,6 +45,8 @@ dependencies:
   crypto:
   firebase_core:
   firebase_remote_config:
+  flutter_svg:
+  flutter_cache_manager:
 
 dev_dependencies:
   flutter_test:
