@@ -47,6 +47,11 @@ dependencies:
   firebase_remote_config:
   flutter_svg:
   flutter_cache_manager:
+  flutter_bloc:
+  convert:
+  flutter_image_compress:
+  path_provider:
+  path:
 
 dev_dependencies:
   flutter_test:
